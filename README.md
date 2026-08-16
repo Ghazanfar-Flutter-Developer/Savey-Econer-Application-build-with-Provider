@@ -103,7 +103,7 @@ git clone https://github.com/Ghazanfar-Flutter-Developer/YOUR_REPOSITORY_NAME.gi
 ### Navigate to the project
 
 ```bash id="7y6k5p"
-cd YOUR_REPOSITORY_NAME
+cd Savey-Econer-Application-build-with-Provider
 ```
 
 ### Install dependencies
