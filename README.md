@@ -32,7 +32,7 @@ View and customize user profile information and preferences.
 
 A complete demonstration of the **Economers** application is available on my LinkedIn profile.
 
-👉 **[Watch the Demo on LinkedIn]((https://www.linkedin.com/posts/ghazanfar-flutter_flutter-flutterdeveloper-mobileappdevelopment-activity-7239536053190025217-WjD-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE1PjcsBg37HfKt-5dH6dhD1nWwDJ2B52ug))**
+👉 **[Watch the Demo on LinkedIn](https://www.linkedin.com/posts/ghazanfar-flutter_flutter-flutterdeveloper-mobileappdevelopment-activity-7239536053190025217-WjD-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE1PjcsBg37HfKt-5dH6dhD1nWwDJ2B52ug)**
 
 ---
 
